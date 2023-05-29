@@ -11,6 +11,7 @@ import { connection } from './dataBase/connection/connection.js'
 import { bookRouter } from './src/bookModule/book.router.js'
 import { userRouter } from './src/userModule/user.router.js';
 import globalError from './utilities/error/globalError.js'
+import appError from './utilities/error/appError.js';
 // server express
 const app = express()
 const port = process.env.port || 8000
