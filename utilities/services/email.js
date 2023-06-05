@@ -13,7 +13,7 @@ export const sendEmail = async(options)=>{
       let token = jwt.sign({email:options.email},process.env.verifyKey)
     
       let info = await transporter.sendMail({
-        from: '"Abdallah 👻" <abdallahhassanshaaban@gmail.com>', 
+        from: '"LibraryApp 👻" <abdallahhassanshaaban@gmail.com>', 
         to: options.email, 
         subject: "Verify Email", 
         text: "Verify Email", 

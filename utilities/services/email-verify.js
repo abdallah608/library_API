@@ -606,7 +606,7 @@ body{background-color:#f5f7fa}.mso h1{}.mso h1{font-family:sans-serif !important
   
       <div style="Margin-left: 20px;Margin-right: 20px;">
 <div class="btn btn--flat btn--large" style="Margin-bottom: 20px;text-align: center;">
-  <![if !mso]><a style="border-radius: 4px;display: inline-block;font-size: 14px;font-weight: bold;line-height: 24px;padding: 12px 24px;text-align: center;text-decoration: none !important;transition: opacity 0.1s ease-in;color: #fff;background-color: #5c91ad;font-family: 'Open Sans', sans-serif;" href="http://localhost:3000/user/verify/${token}">Click here</a><![endif]>
+  <![if !mso]><a style="border-radius: 4px;display: inline-block;font-size: 14px;font-weight: bold;line-height: 24px;padding: 12px 24px;text-align: center;text-decoration: none !important;transition: opacity 0.1s ease-in;color: #fff;background-color: #5c91ad;font-family: 'Open Sans', sans-serif;" href="https://libraryapi-hmmy.onrender.com/user/verify/${token}">Click here</a><![endif]>
 <!--[if mso]><p style="line-height:0;margin:0;">&nbsp;</p><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="http://photobookworldwide.createsend1.com/t/d-l-dlldol-l-r/" style="width:118px" arcsize="9%" fillcolor="#5C91AD" stroke="f"><v:textbox style="mso-fit-shape-to-text:t" inset="0px,11px,0px,11px"><center style="font-size:14px;line-height:24px;color:#FFFFFF;font-family:sans-serif;font-weight:bold;mso-line-height-rule:exactly;mso-text-raise:4px">Click here</center></v:textbox></v:roundrect><![endif]--></div>
 </div>
   
